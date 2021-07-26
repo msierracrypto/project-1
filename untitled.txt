@@ -1,2 +1,3 @@
 mapbox=pk.eyJ1IjoibS1zaWVycmEiLCJhIjoiY2txeHR5YXUyMHUxczJ3bnJvOGJiNnRudSJ9.sYT3EDMWXIuqOISAr-65BQ
 
+GOLD_API_KEY=goldapi-dbdwskre5mzuw-io
